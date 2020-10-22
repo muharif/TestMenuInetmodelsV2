@@ -1,0 +1,106 @@
+id_category	name_category	type_category	network_type
+0	Adipose - Subcutaneous	Normal Tissue	Gene Co-Expression Network
+1	Muscle - Skeletal	Normal Tissue	Gene Co-Expression Network
+2	Artery - Tibial	Normal Tissue	Gene Co-Expression Network
+3	Artery - Coronary	Normal Tissue	Gene Co-Expression Network
+4	Heart - Atrial Appendage	Normal Tissue	Gene Co-Expression Network
+5	Adipose - Visceral (Omentum)	Normal Tissue	Gene Co-Expression Network
+6	Uterus	Normal Tissue	Gene Co-Expression Network
+7	Vagina	Normal Tissue	Gene Co-Expression Network
+8	Breast - Mammary Tissue	Normal Tissue	Gene Co-Expression Network
+9	Skin - Not Sun Exposed (Suprapubic)	Normal Tissue	Gene Co-Expression Network
+10	Minor Salivary Gland	Normal Tissue	Gene Co-Expression Network
+11	Brain - Cortex	Normal Tissue	Gene Co-Expression Network
+12	Adrenal Gland	Normal Tissue	Gene Co-Expression Network
+13	Thyroid	Normal Tissue	Gene Co-Expression Network
+14	Lung	Normal Tissue	Gene Co-Expression Network
+15	Spleen	Normal Tissue	Gene Co-Expression Network
+16	Pancreas	Normal Tissue	Gene Co-Expression Network
+17	Esophagus - Muscularis	Normal Tissue	Gene Co-Expression Network
+18	Esophagus - Mucosa	Normal Tissue	Gene Co-Expression Network
+19	Esophagus - Gastroesophageal Junction	Normal Tissue	Gene Co-Expression Network
+20	Stomach	Normal Tissue	Gene Co-Expression Network
+21	Colon - Sigmoid	Normal Tissue	Gene Co-Expression Network
+22	Small Intestine - Terminal Ileum	Normal Tissue	Gene Co-Expression Network
+23	Colon - Transverse	Normal Tissue	Gene Co-Expression Network
+24	Prostate	Normal Tissue	Gene Co-Expression Network
+25	Testis	Normal Tissue	Gene Co-Expression Network
+26	Nerve - Tibial	Normal Tissue	Gene Co-Expression Network
+27	Skin - Sun Exposed (Lower leg)	Normal Tissue	Gene Co-Expression Network
+28	Heart - Left Ventricle	Normal Tissue	Gene Co-Expression Network
+29	Brain - Cerebellum	Normal Tissue	Gene Co-Expression Network
+30	Cells - Cultured fibroblasts	Normal Tissue	Gene Co-Expression Network
+31	Whole Blood	Normal Tissue	Gene Co-Expression Network
+32	Artery - Aorta	Normal Tissue	Gene Co-Expression Network
+33	Cells - EBV-transformed lymphocytes	Normal Tissue	Gene Co-Expression Network
+34	Pituitary	Normal Tissue	Gene Co-Expression Network
+35	Brain - Frontal Cortex (BA9)	Normal Tissue	Gene Co-Expression Network
+36	Brain - Caudate (basal ganglia)	Normal Tissue	Gene Co-Expression Network
+37	Brain - Nucleus accumbens (basal ganglia)	Normal Tissue	Gene Co-Expression Network
+38	Brain - Putamen (basal ganglia)	Normal Tissue	Gene Co-Expression Network
+39	Brain - Hypothalamus	Normal Tissue	Gene Co-Expression Network
+40	Brain - Spinal cord (cervical c-1)	Normal Tissue	Gene Co-Expression Network
+41	Brain - Hippocampus	Normal Tissue	Gene Co-Expression Network
+42	Brain - Anterior cingulate cortex (BA24)	Normal Tissue	Gene Co-Expression Network
+43	Ovary	Normal Tissue	Gene Co-Expression Network
+44	Brain - Cerebellar Hemisphere	Normal Tissue	Gene Co-Expression Network
+45	Liver	Normal Tissue	Gene Co-Expression Network
+46	Brain - Substantia nigra	Normal Tissue	Gene Co-Expression Network
+47	Kidney - Cortex	Normal Tissue	Gene Co-Expression Network
+48	Brain - Amygdala	Normal Tissue	Gene Co-Expression Network
+49	Cervix - Ectocervix	Normal Tissue	Gene Co-Expression Network
+50	Fallopian Tube	Normal Tissue	Gene Co-Expression Network
+51	Cervix - Endocervix	Normal Tissue	Gene Co-Expression Network
+52	Bladder	Normal Tissue	Gene Co-Expression Network
+53	Kidney - Medulla	Normal Tissue	Gene Co-Expression Network
+54	TCGA-SKCM	Cancer Tissue	Gene Co-Expression Network
+55	TCGA-LAML	Cancer Tissue	Gene Co-Expression Network
+56	TCGA-KIRC	Cancer Tissue	Gene Co-Expression Network
+57	TCGA-HNSC	Cancer Tissue	Gene Co-Expression Network
+58	TCGA-GBM	Cancer Tissue	Gene Co-Expression Network
+59	TCGA-OV	Cancer Tissue	Gene Co-Expression Network
+60	TCGA-UCS	Cancer Tissue	Gene Co-Expression Network
+61	TCGA-KIRP	Cancer Tissue	Gene Co-Expression Network
+62	TCGA-BLCA	Cancer Tissue	Gene Co-Expression Network
+63	TCGA-DLBC	Cancer Tissue	Gene Co-Expression Network
+64	TCGA-ESCA	Cancer Tissue	Gene Co-Expression Network
+65	TCGA-PAAD	Cancer Tissue	Gene Co-Expression Network
+66	TCGA-PRAD	Cancer Tissue	Gene Co-Expression Network
+67	TCGA-LGG	Cancer Tissue	Gene Co-Expression Network
+68	TCGA-UCEC	Cancer Tissue	Gene Co-Expression Network
+69	TCGA-SARC	Cancer Tissue	Gene Co-Expression Network
+70	TCGA-ACC	Cancer Tissue	Gene Co-Expression Network
+71	TCGA-PCPG	Cancer Tissue	Gene Co-Expression Network
+72	TCGA-LIHC	Cancer Tissue	Gene Co-Expression Network
+73	TCGA-THCA	Cancer Tissue	Gene Co-Expression Network
+74	TCGA-THYM	Cancer Tissue	Gene Co-Expression Network
+75	TCGA-MESO	Cancer Tissue	Gene Co-Expression Network
+76	TCGA-TGCT	Cancer Tissue	Gene Co-Expression Network
+77	TCGA-CHOL	Cancer Tissue	Gene Co-Expression Network
+78	TCGA-UVM	Cancer Tissue	Gene Co-Expression Network
+79	TCGA-READ	Cancer Tissue	Gene Co-Expression Network
+80	TCGA-KICH	Cancer Tissue	Gene Co-Expression Network
+81	TCGA-BRCA	Cancer Tissue	Gene Co-Expression Network
+82	TCGA-COAD	Cancer Tissue	Gene Co-Expression Network
+83	TCGA-CESC	Cancer Tissue	Gene Co-Expression Network
+84	TCGA-LUAD	Cancer Tissue	Gene Co-Expression Network
+85	TCGA-LUSC	Cancer Tissue	Gene Co-Expression Network
+86	TCGA-STAD	Cancer Tissue	Gene Co-Expression Network
+87	Uhlen_ALL_delta.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+88	Uhlen_ALL_long.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+89	Uhlen_f_delta.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+90	Uhlen_f_long.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+91	Uhlen_m_delta.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+92	Uhlen_m_long.txt	SCAPIS - SciLifeLab Wellness Profiling study	Multi-Omics Network
+93	Hood_ALL_delta.txt	P100 Study	Multi-Omics Network
+94	Hood_ALL_long.txt	P100 Study	Multi-Omics Network
+95	Hood_F_delta.txt	P100 Study	Multi-Omics Network
+96	Hood_F_long.txt	P100 Study	Multi-Omics Network
+97	Hood_M_delta.txt	P100 Study	Multi-Omics Network
+98	Hood_M_long.txt	P100 Study	Multi-Omics Network
+99	Sneyder_ALL_delta.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
+100	Sneyder_ALL_long.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
+101	Sneyder_IR_delta.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
+102	Sneyder_IR_long.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
+103	Sneyder_IS_delta.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
+104	Sneyder_IS_long.txt	Integrative Personal Omics Study (Male Only)	Multi-Omics Network
